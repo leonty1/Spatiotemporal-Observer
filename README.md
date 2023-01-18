@@ -1,2 +1,2 @@
 # ST-Observer-Net
-will be uploaded in the near future.
+will be available in the near future.
