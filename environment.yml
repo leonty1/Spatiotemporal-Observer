@@ -1,0 +1,21 @@
+name: stobserver
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pip
+  - python
+  - pytorch
+  - pip:
+    - tqdm
+    - matplotlib==3.5.1
+    - pathlib==1.0.1
+    - pillow==9.0.1
+    - scikit-image==0.18.0
+    - scikit-learn==1.0.2
+    - scipy==1.8.0
+    - torch==2.0.0
+
+prefix: \opt\anaconda3\envs\stobserver
