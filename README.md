@@ -4,7 +4,7 @@
 This repository contains the implementation code for paper:
 
 > **Spatiotemporal Observer Design for Predictive Leading of High-Dimensional Data**\
-> [Tongyi Liang](https://github.com/leonty1.html), [Han-Xiong Li](https://scholar.google.com/citations?user=tnnePQwAAAAJ.html).\
+> [Tongyi Liang](https://github.com/leonty1.html), [Han-Xiong Li](https://scholars.cityu.edu.hk/en/persons/hanxiong-li(5b4fae3c-6b7e-47c6-ad98-ca5bb65b0c0a).html).\
 > Preprint: https://arxiv.org/abs/2402.15284 \
 > Under Review by IEEE, 2024. 
 
